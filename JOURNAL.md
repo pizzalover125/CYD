@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Cheap Yellow Displays**.  
+This is my journal of the design and building process of **Cheap Yellow Display**.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/215).
 
 
@@ -16,4 +16,11 @@ Cheap Yellow Displays, or CYDs, are cheap ESP32-powered touch screens with a ton
 
 I actually love this so much. I could make this into a macropad, a Spotify Car Thing clone, a weather display, a handheld gaming device, and so much more! But first, I think I'll make a smart pill organizer for the Congressional App Challenge. ![Screenshot 2025-10-05 at 2.53.23 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NjUwLCJwdXIiOiJibG9iX2lkIn19--d05580e5de399fc37464d5c762e4a2c66ddc9419/Screenshot%202025-10-05%20at%202.53.23%E2%80%AFPM.png)
   
+
+## 10/6/2025 - Began CAD + Ordered Parts  
+
+I have decided to buy the https://www.amazon.com/dp/B0C4KSKW96. It uses capacitive touch, which seems like it's wayyyyy better than capacitive touch. I found this: https://www.printables.com/model/739905-cyd-35-case-esp32-3248s035/, but extended it a little bit to make sure the speaker fits. Speaking of the speaker, I chose this one: https://www.amazon.com/dp/B0826551ZZ, because it can fit inside the case. 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NzkyLCJwdXIiOiJibG9iX2lkIn19--39dd4c3c0a6c2ff415a033cdfd412d77a44d5d1b/image.png)
+
+When I get the parts, I'll probably add branding to the CAD and customize it more.  
 
