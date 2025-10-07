@@ -24,3 +24,8 @@ I have decided to buy the https://www.amazon.com/dp/B0C4KSKW96. It uses capaciti
 
 When I get the parts, I'll probably add branding to the CAD and customize it more.  
 
+## 10/7/2025 - Recieved the goods but ts doesn't work  
+
+I received the package. I thought getting Hello World to show up would be super easy. I WAS SOOOO WRONG. I tried and tried and tried and can't get anything to work. I've switched libraries, watched like a bajillion tutorials, but NOTHING works. The only thing I got to work is this Marauder thingy... its basically a Flipper Zero. The display clearly works, but my code just doesn't. https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY2LCJwdXIiOiJibG9iX2lkIn19--7e6c696a262b0bb551f6dfb9cd755b3995bf80a6/image.png)
+  
+
