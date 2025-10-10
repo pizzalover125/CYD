@@ -29,3 +29,10 @@ When I get the parts, I'll probably add branding to the CAD and customize it mor
 I received the package. I thought getting Hello World to show up would be super easy. I WAS SOOOO WRONG. I tried and tried and tried and can't get anything to work. I've switched libraries, watched like a bajillion tutorials, but NOTHING works. The only thing I got to work is this Marauder thingy... its basically a Flipper Zero. The display clearly works, but my code just doesn't. https://github.com/Fr4nkFletcher/ESP32-Marauder-Cheap-Yellow-Display![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTY2LCJwdXIiOiJibG9iX2lkIn19--7e6c696a262b0bb551f6dfb9cd755b3995bf80a6/image.png)
   
 
+## 10/9/2025 - Another day, another failure  
+
+I TRIED SO LONG TO GET TS TO WORK AND IT JUST WONT. I installed a bunch of libraries, found myself literally EDITING THE LIBRARY SOURCE CODE to get ts to work, but nothing would work. I'm actually so sad... however, it seems like someone has used the same display as me, but they used this weird thing called PlatformIO. Guess we are switching to that next.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--4f0cc2f5f8d2f43900b818345718f916ddbb810a/image.png)
+  
+
