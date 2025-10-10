@@ -36,12 +36,19 @@ I TRIED SO LONG TO GET TS TO WORK AND IT JUST WONT. I installed a bunch of libra
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--4f0cc2f5f8d2f43900b818345718f916ddbb810a/image.png)
   
 
-## 10/10/2025 - omg omg omg IT JUST WORKED  
+## 10/10/2025 11 AM - omg omg omg IT JUST WORKED  
 
 Switching to platformio WORKED!!!! It takes forever to compile and initialize, but after loads of ChatGPTing, it worked!
 
 [IMG_1268.HEIC](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ce71119039547f72df109470cf92c1575b9702f3/IMG_1268.HEIC)
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--4315ce6d9016e41f255836ec8c7df1fdece6ceb0/image.png)
+  
+
+## 10/10/2025 3 PM - Designed a basic UI  
+
+Designed this pretty decent UI. The text used to be almost unreadable, but with anti-aliasing, it worked! I also got the speaker to work. Turns out to add the pill feature, I'm going to need a RTC. I'll try using the WiFi feature to get the time from an API, so maybe I can make it work?
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--9c81e485d71cf1a8ae27cb83e09d597eeb5c8903/image.png)
   
 
