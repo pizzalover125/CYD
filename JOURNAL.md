@@ -36,3 +36,12 @@ I TRIED SO LONG TO GET TS TO WORK AND IT JUST WONT. I installed a bunch of libra
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM0NywicHVyIjoiYmxvYl9pZCJ9fQ==--4f0cc2f5f8d2f43900b818345718f916ddbb810a/image.png)
   
 
+## 10/10/2025 - omg omg omg IT JUST WORKED  
+
+Switching to platformio WORKED!!!! It takes forever to compile and initialize, but after loads of ChatGPTing, it worked!
+
+[IMG_1268.HEIC](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--ce71119039547f72df109470cf92c1575b9702f3/IMG_1268.HEIC)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--4315ce6d9016e41f255836ec8c7df1fdece6ceb0/image.png)
+  
+
