@@ -52,3 +52,8 @@ Designed this pretty decent UI. The text used to be almost unreadable, but with 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTUyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--9c81e485d71cf1a8ae27cb83e09d597eeb5c8903/image.png)
   
 
+## 10/18/2025 - Worked on the firmware  
+
+So... turns out this display is kind of broken. It outputs green instead of red. oh well. I spent a lot of time (and a lot of ChatGPT debugging) to get this okay looking UI. I was trying to use containers, but they wouldn't work. So, it looks pretty weird... oh well. ![HEIC to PNG 1282.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzE2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7732b604173b9415fc287a3b7c0aaba7d01f1d2e/HEIC%20to%20PNG%201282.png)
+  
+
